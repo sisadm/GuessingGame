@@ -107,6 +107,7 @@ button:active {
 .show {
   color: #0C375F;
   background-color: #D4B560;
+  transition: all 1s;
 }
 
 /* Keyboard */
